@@ -8,4 +8,5 @@ apple6
 apple7
 apple8
 apple9
-edited by TestGit1
+edited by TestGit and TestGit1
+>>>>>>> cd9289a8894015b9235df939ceeb216634a4e408
