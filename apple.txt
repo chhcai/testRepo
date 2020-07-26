@@ -3,3 +3,7 @@ apple2
 apple3 @@@@@@
 apple4 hot fix
 apple5
+added by TestGit1
+apple6
+apple7
+apple8
